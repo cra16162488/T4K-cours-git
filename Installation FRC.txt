@@ -1,0 +1,13 @@
+Page des logiciels à télécharger:
+1- Java : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+2- VSCode : https://code.visualstudio.com/download
+3- Extensions VSCode : 
+   - C/C++
+   - Java Extension Pack
+   - French Language pack (facultatif),
+   - WPILib : https://github.com/wpilibsuite/vscode-wpilib/releases
+4- Suprimer Git : https://stackoverflow.com/questions/30331338/remove-git-integrations-from-vscode
+5- MinGW gcc/g++ : https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-posix/seh/x86_64-7.3.0-release-posix-seh-rt_v5-rev0.7z/download
+6- Ajouter au path (modifier les variables d'environnment pour l'utilisateur)
+7- Git : https://gitforwindows.org/
+8- Créer compte Github
